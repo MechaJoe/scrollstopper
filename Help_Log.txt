@@ -1,0 +1,4 @@
+4-27-21, 11:30 pm: Looked up Alarm triggering bug, https://stackoverflow.com/questions/17755579/alarm-manager-triggered-immediately
+4-28-21, 12:00 am: Looked up how to get the orientation, https://stackoverflow.com/questions/20339942/get-device-angle-by-using-getorientation-function
+4-28-21, 1:00 am: Looked up how to set up a BroadcastReceiver, https://stackoverflow.com/questions/38775285/android-7-broadcastreceiver-onreceive-intent-getextras-missing-data
+4-29-21, 4:00 am: Looked up how to grant system settings, https://stackoverflow.com/questions/63192108/is-android-permission-write-settings-only-granted-to-system-apps

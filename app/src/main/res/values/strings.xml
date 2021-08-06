@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Scrollstopper</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Config</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="change_time">Set Time</string>
+    <string name="no_time_set">Set a time to stop scrolling!</string>
+    <string name="loading">Loading...</string>
+    <string name="schedule_alert">Schedule Scrollstopper</string>
+    <string name="scrollstopper_time">Stop scrolling at...</string>
+    <string name="schedule_time">Set Time</string>
+    <string name="message">Motivational/Degrading Message to Self</string>
+    <string name="congrats">Great Job! You stopped scrolling!  (Or so we think.)</string>
+    <string name="enable_sys">Allow Scrollstopper to Change Brightness:</string>
+    <string name="info">Created by Joe Konno for CIS 195. Spring 2021</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="return_home">Home</string>
+</resources>
